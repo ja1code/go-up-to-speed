@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://www.google.com",
+    "priority": 1
+  },
+  {
+    "url": "https://dashboard.scaleads.app",
+    "priority": 0
+  },
+  {
+    "url": "https://api.scaleads.app/fb/",
+    "priority": 2
+  }
+]
